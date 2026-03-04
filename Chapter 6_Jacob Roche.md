@@ -1,15 +1,9 @@
-<!DOCTYPE html>
-<html>
+---
 
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Chapter 6_Jacob Roche</title>
-  <link rel="stylesheet" href="https://stackedit.io/style.css" />
-</head>
 
-<body class="stackedit">
-  <div class="stackedit__html"><h1 id="chapter-6-active-reading-notes">Chapter 6 Active Reading Notes</h1>
+---
+
+<h1 id="chapter-6-active-reading-notes">Chapter 6 Active Reading Notes</h1>
 <p><strong>Setting Priorities, Requirements, and Goals</strong><br>
 Name:  Jacob Roche<br>
 Date:  02/04/2026</p>
@@ -151,7 +145,4 @@ Date:  02/04/2026</p>
 <blockquote>
 <p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
 </blockquote>
-</div>
-</body>
 
-</html>
